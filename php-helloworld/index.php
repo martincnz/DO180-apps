@@ -70,5 +70,5 @@ body, html {height: 100%}
 
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Soy muy crack"\n;
+print "Soy muy crack\n";
 ?>
